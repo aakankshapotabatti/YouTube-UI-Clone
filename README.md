@@ -1,8 +1,5 @@
 # YouTube-UI-Clone
 
-# YouTube-UI-Clone
-
-
 ### **Title:**
 YouTube Frontend UI Clone
 
@@ -13,6 +10,6 @@ Each video card is structured with semantic HTML and styled using modern CSS pra
 
 This clone was built purely for learning and demonstration purposes, with a focus on mastering layout techniques, reusable components, and media-rich UI design.
 
-### **Output**
+### **Output** [Live](https://aakankshapotabatti.github.io/YouTube-UI-Clone/)
 ![alt text](image.png)
 ---
