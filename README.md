@@ -10,6 +10,8 @@ Each video card is structured with semantic HTML and styled using modern CSS pra
 
 This clone was built purely for learning and demonstration purposes, with a focus on mastering layout techniques, reusable components, and media-rich UI design.
 
-### **Output** [Live](https://aakankshapotabatti.github.io/YouTube-UI-Clone/)
+### **[Click here to view](https://aakankshapotabatti.github.io/YouTube-UI-Clone/)**
+
+### **Output** 
 ![alt text](image.png)
 ---
